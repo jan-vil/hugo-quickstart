@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ca'
+title = 'El meu lloc Hugo'
+theme= 'ananke'
