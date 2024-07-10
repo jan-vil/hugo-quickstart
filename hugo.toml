@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'ca'
 title = 'El meu lloc Hugo'
 theme= 'ananke'
-theme = 'ananke'
+
