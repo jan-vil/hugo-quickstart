@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on El meu lloc Morbius</title>
+    <title>Blog on El meu lloc Morbius</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on El meu lloc Morbius</description>
+    <description>Recent content in Blog on El meu lloc Morbius</description>
     <generator>Hugo</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 09 Jul 2024 16:05:03 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Com es veu això?</title>
+      <link>http://localhost:1313/blog/posts/my-second-post/</link>
+      <pubDate>Tue, 09 Jul 2024 16:05:03 +0200</pubDate>
+      <guid>http://localhost:1313/blog/posts/my-second-post/</guid>
+      <description>Com és veu aquest post en la preview del blog?</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/blog/posts/my-first-post/</link>
