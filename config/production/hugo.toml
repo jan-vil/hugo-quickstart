@@ -1,5 +1,5 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'ca'
-title = 'El meu lloc Morbius'
+title = 'El meu lloc Hugo'
 theme= 'ananke'
 

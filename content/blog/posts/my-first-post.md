@@ -7,7 +7,11 @@ draft: false
 
 This is **bold** text, and this is *emphasized* text.
 
-El text anterior no mostra cap part ni bold ni emphasized
+El text anterior no mostra cap part ni bold ni emphasized, en la preview.
+
+A dins l'article si que funciona.
+
+Funcionen els canvis en viu?
 
 Visit the [Hugo](https://gohugo.io) website!
 
