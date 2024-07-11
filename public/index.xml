@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>El meu lloc Hugo</title>
+    <title>Benvinguts a la meva pàgina Hugo on El meu lloc Morbius</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on El meu lloc Hugo</description>
+    <description>Recent content in Benvinguts a la meva pàgina Hugo on El meu lloc Morbius</description>
     <generator>Hugo</generator>
     <language>ca</language>
-    <lastBuildDate>Tue, 09 Jul 2024 16:05:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 09 Jul 2024 16:05:03 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;El text anterior no mostra cap part ni bold ni emphasized&#xA;Visit the Hugo website!</description>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>Aquesta pàgina representa l&amp;rsquo;índex de l&amp;rsquo;apartat &amp;ldquo;Blog&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Aquesta pàgina representa l&amp;rsquo;índex de l&amp;rsquo;apartat &amp;ldquo;About&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>
